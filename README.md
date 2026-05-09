@@ -1,1 +1,1 @@
-# 606smp.aternos.me
+# IP: 606smp.aternos.me
