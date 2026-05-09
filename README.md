@@ -34,7 +34,7 @@
 | 🌍 World | ⚔️ PVP | 📜 Rules |
 | :--- | :--- | :--- |
 | Survival | Enabled | No Griefing |
-| 1.20.x | Community Based | Be Respectful |
+| 1.16.5 | Community Based | Be Respectful |
 
 </div>
 
